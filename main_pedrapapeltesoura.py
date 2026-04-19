@@ -1,4 +1,4 @@
-#Atividade em Sala - Pedra, Papel e Tesoura
+#Jogo Pedra Papel Tesoura
 import random
 print("BemVindo ao Jogo Pedra,Papel e Tesoura.\n")
 pedra = 1
